@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/ABC Design/HealthConcept/WorkingMain/HealthConcept/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/ABC Design/HealthConcept/WorkingMain/HealthConcept/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/ABC Design/HealthConcept/WorkingMain/HealthConcept/app/src/main/java/com/abcdesigns/healthconcept/adapter/RecordingAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/ABC Design/HealthConcept/WorkingMain/HealthConcept/app/src/main/java/com/abcdesigns/healthconcept/model/ClassRecording.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/ABC Design/HealthConcept/WorkingMain/HealthConcept/app/src/main/java/com/abcdesigns/healthconcept/ui/dashboard/Activity_Dashboard.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/ABC Design/HealthConcept/WorkingMain/HealthConcept/app/src/main/java/com/abcdesigns/healthconcept/ui/dashboard/Activity_Details.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/ABC Design/HealthConcept/WorkingMain/HealthConcept/app/src/main/java/com/abcdesigns/healthconcept/ui/record/Activity_Recording.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/ABC Design/HealthConcept/WorkingMain/HealthConcept/app/src/main/java/com/abcdesigns/healthconcept/ui/record/Activity_RecordingList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/ABC Design/HealthConcept/WorkingMain/HealthConcept/app/src/main/java/com/abcdesigns/healthconcept/ui/record/Activity_Recording_List.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/ABC Design/HealthConcept/WorkingMain/HealthConcept/app/src/main/java/com/abcdesigns/healthconcept/ui/record/ClassRecording.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/ABC Design/HealthConcept/WorkingMain/HealthConcept/app/src/main/java/com/abcdesigns/healthconcept/ui/record/RecordingAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/ABC Design/HealthConcept/WorkingMain/HealthConcept/app/src/main/java/com/abcdesigns/healthconcept/ui/record/RecordingListActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/ABC Design/HealthConcept/WorkingMain/HealthConcept/app/src/main/java/com/abcdesigns/healthconcept/util/FileName.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/ABC Design/HealthConcept/WorkingMain/HealthConcept/app/src/main/res/layout/activity_dashboard.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/ABC Design/HealthConcept/WorkingMain/HealthConcept/app/src/main/res/layout/activity_details.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/ABC Design/HealthConcept/WorkingMain/HealthConcept/app/src/main/res/layout/activity_recording.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/ABC Design/HealthConcept/WorkingMain/HealthConcept/app/src/main/res/layout/row_recording_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="F:/ABC Design/HealthConcept/WorkingMain/HealthConcept/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../VoiceRecorder_MP4_Parser/app/src/main/java/com/example/voicerecorder_mp4_parser/fragment/MainFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/voicerecordingapp/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/voicerecordingapp/PlayActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/voicerecordingapp/RecordingAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/voicerecordingapp/RecordingListActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/seebar.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main_2.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_play.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_recording_list.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

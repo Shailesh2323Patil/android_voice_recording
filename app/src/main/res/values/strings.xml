@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VoiceRecorderApp</string>
+    <string name="_00_00">00:00</string>
+
+    <string name="back"><![CDATA[<]]></string>
+    <string name="rewind"><![CDATA[<<]]></string>
+    <string name="forward"><![CDATA[>>]]></string>
+    <string name="pause">||</string>
+    <string name="stop_recording">Please Stop Recording</string>
+</resources>
